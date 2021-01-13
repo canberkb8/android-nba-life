@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "162604214291",
+    "firebase_url": "https://nba-life-project.firebaseio.com",
+    "project_id": "nba-life-project",
+    "storage_bucket": "nba-life-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162604214291:android:5d70fcfbcf8dc198f3b7e6",
+        "android_client_info": {
+          "package_name": "com.nba.life"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "162604214291-3srggnrvd3bqpgij6h0qr6ivhbf3s478.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDt0ZDz3DWHQOJrDXRnSEbIpnh_yVg-XHc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "162604214291-3srggnrvd3bqpgij6h0qr6ivhbf3s478.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162604214291:android:d91812bea07768cef3b7e6",
+        "android_client_info": {
+          "package_name": "com.nba.life.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "162604214291-3srggnrvd3bqpgij6h0qr6ivhbf3s478.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDt0ZDz3DWHQOJrDXRnSEbIpnh_yVg-XHc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "162604214291-3srggnrvd3bqpgij6h0qr6ivhbf3s478.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
